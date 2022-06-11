@@ -9,5 +9,5 @@ This contains the set of assignments given under Summer Analytics BootCamp on Ma
 * Visualised the relationship between features
 
 ## Week 3 assignment
-* Evaluated two classifications models
+* Evaluated two classifications models: SVM and Logistic Regression
 * Calculated the roc_auc score and model accuracy score
